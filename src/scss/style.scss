@@ -86,7 +86,7 @@ html {
   padding: 1.3rem 3rem;
   font-size: 1.4rem;
 
-  & svg {
+  svg {
     height: 2.25rem;
     width: 2.25rem;
     fill: currentColor;
@@ -121,14 +121,14 @@ html {
   align-items: center;
   transition: all .2s;
 
-  & svg {
+  svg {
     height: 1.5rem;
     width: 1.5rem;
     fill: currentColor;
     margin: 0 .2rem;
   }
 
-  & span {
+  span {
     margin: 0 .4rem;
   }
 
@@ -149,7 +149,7 @@ html {
   background: none;
   cursor: pointer;
 
-  & svg {
+  svg {
     height: 100%;
     width: 100%;
     fill: #F59A83;
